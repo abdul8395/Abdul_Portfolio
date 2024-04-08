@@ -1,0 +1,21 @@
+/* Custom CSS for styling */
+body {
+    font-family: Arial, sans-serif;
+}
+
+section {
+    margin-bottom: 50px;
+}
+
+.navbar-brand {
+    font-weight: bold;
+}
+
+.card {
+    border: 1px solid #ddd;
+    border-radius: 8px;
+}
+
+footer {
+    color: #fff;
+}
